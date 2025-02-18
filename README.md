@@ -1,3 +1,6 @@
-here we can play the stone paper and scissor game.
+You have to Choose the Options that are available.
+1.Rock
+2.Paper
+3.Scissor
 
-You have to choose the number and computer automatically choose some.
+Computer will automatically choose the option and also show who win the game.
